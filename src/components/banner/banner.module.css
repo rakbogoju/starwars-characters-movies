@@ -1,0 +1,18 @@
+.banner {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 20px;
+    padding: 20px 0;
+    font-weight: 500;
+}
+
+.description {
+    font-size: 12px;
+    font-style: italic;
+    color: gray;
+}
